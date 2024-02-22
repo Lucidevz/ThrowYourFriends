@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: cf3f924f60420d043b3bca9c2a9719a7
+  - enabled: 1
+    path: Assets/Scenes/MovementTest.unity
+    guid: a8f6eca0db4e5884089c2d47cbbe5e8a
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: afd002311c055df448af88dc33fc51fb
+  - enabled: 1
+    path: Assets/Scenes/Training.unity
+    guid: 1b9bcc5af31e4704eb4abf7a6e80fa88
+  - enabled: 1
+    path: Assets/Scenes/WonGame.unity
+    guid: eb5dc640ce11e8840b80f13d9a4253ba
+  m_configObjects: {}
